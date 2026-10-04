@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment / Secrets
+.env
+.env.*
+!.env.example
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / Editor
+.vscode/
+.idea/
+
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Generated Outputs
+outputs/
+runs/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+
+# Uploaded / Test Media
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+
+# Large ML files
+*.pt
+*.pth
+*.onnx
+*.weights
+*.keras
+*.h5
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+.eggs/

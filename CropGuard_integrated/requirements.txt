@@ -1,0 +1,11 @@
+streamlit
+ultralytics
+opencv-python
+numpy
+Pillow
+python-dotenv
+requests
+av
+streamlit-webrtc
+plotly
+pandas
